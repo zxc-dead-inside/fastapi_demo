@@ -1,3 +1,6 @@
+docker-compose up
+
+## SQL решение
 ```
 UPDATE full_names
 SET status = short_names.status
